@@ -5,10 +5,10 @@
 </div>
 
 <div align="center">
-  <a href="[https://velog.io/@oka1313](https://www.notion.so/tare-log-406d2ee5d7ee4278ab7365bdae7b06d6)">
-    <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />&nbsp
+  <a href="https://www.notion.so/tare-log-406d2ee5d7ee4278ab7365bdae7b06d6">
+    <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>&nbsp
   </a>
-  <a href="siltarre@gmail.com">
+  <a href="siltarre@gmail.com">
     <img src="https://img.shields.io/badge/siltarre@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </div>
